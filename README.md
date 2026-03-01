@@ -1,12 +1,9 @@
-WordPress 開発環境
-===
+# WordPress 開発環境
 
 ## ◯ Getting started
-
 * ```bash create.sh``` を実行
 
 ## ◯ Work command
-
 * **起動:** ```npx @wordpress/env start```
   * WordPress + DB コンテナを起動
 * **停止:** ```npx @wordpress/env stop```
